@@ -1,0 +1,10 @@
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\bin\Debug\Atividade 01 - 01.exe.config
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\bin\Debug\Atividade 01 - 01.exe
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\bin\Debug\Atividade 01 - 01.pdb
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\obj\Debug\Atividade 01 - 01.csprojAssemblyReference.cache
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\obj\Debug\Atividade_01___01.Form1.resources
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\obj\Debug\Atividade_01___01.Properties.Resources.resources
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\obj\Debug\Atividade 01 - 01.csproj.GenerateResource.cache
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\obj\Debug\Atividade 01 - 01.csproj.CoreCompileInputs.cache
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\obj\Debug\Atividade 01 - 01.exe
+C:\Users\ve\Desktop\trabalho martineli\Atividade 01 - 01\Atividade 01 - 01\obj\Debug\Atividade 01 - 01.pdb
